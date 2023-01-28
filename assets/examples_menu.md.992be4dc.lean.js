@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.4af2bde4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"examples/menu.md"}'),n={name:"examples/menu.md"};function r(s,o,c,m,p,_){return t(),a("div")}const l=e(n,[["render",r]]);export{i as __pageData,l as default};
